@@ -3,7 +3,7 @@
 A fully functional **RESTful API & GraphQL** for a job search platform, built using **Express.js** and **MongoDB**.  
 Supports secure user authentication, authorization, job CRUD operations, filtering, search, and statistics.
 
----
+----
 
 ## 🌐 Live Demo
 
